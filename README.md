@@ -28,5 +28,11 @@ Here are some ideas to get you started:
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="Debian" src="https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-    <img alt="CSS" src="https://img.shields.io/badge/CSS-239120?&style=flat-square&logo=css3&logoColor=white" />
+    <img alt="CSS" src="https://img.shields.io/badge/CSS-239120?style=flat-square&logo=css3&logoColor=white" />
+    <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
+    <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+    <img alt="Arduino IDE" src="https://img.shields.io/badge/Arduino_IDE-00979D?style=flat-square&logo=arduino&logoColor=white" />
+    <img alt="Arduino IDE" src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat-square&logo=Raspberry%20Pi&logoColor=white" />
+    
+  
 </p>
