@@ -13,7 +13,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-![](https://komarev.com/ghpvc/?username=your_username&color=give_your_color)
 -->
 <h3>When I code, I rely on</h3>
 <p>
@@ -34,5 +33,6 @@ Here are some ideas to get you started:
     <img alt="Arduino IDE" src="https://img.shields.io/badge/Arduino_IDE-00979D?style=flat-square&logo=arduino&logoColor=white" />
     <img alt="Arduino IDE" src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat-square&logo=Raspberry%20Pi&logoColor=white" />
     
-  
+
+  ![](https://komarev.com/ghpvc/?username=your_username&color=give_your_color)
 </p>
