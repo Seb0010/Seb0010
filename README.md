@@ -34,5 +34,5 @@ Here are some ideas to get you started:
     <img alt="Arduino IDE" src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat-square&logo=Raspberry%20Pi&logoColor=white" />
     
 
-  ![](https://komarev.com/ghpvc/?username=your_username&color=give_your_color)
+  ![](https://komarev.com/ghpvc/?username=Seb0010&color=blue)
 </p>
